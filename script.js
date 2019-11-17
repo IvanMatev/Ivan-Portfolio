@@ -2,12 +2,12 @@
   document.addEventListener('DOMContentLoaded', () => {
 
     var config = {
-      apiKey:            "AIzaSyCKNvEVkd8OhUERlaj_IqXGwIo0nlXhHOE",
-      authDomain:        "portfolio-ivan.firebaseapp.com",
-      databaseURL:       "https://portfolio-ivan.firebaseio.com",
+      apiKey:            "****************************",
+      authDomain:        "*********************.com",
+      databaseURL:       "*************************.com",
       projectId:         "portfolio-ivan",
       storageBucket:     "portfolio-ivan.appspot.com",
-      messagingSenderId: "12804316643"
+      messagingSenderId: "********************"
     };
     firebase.initializeApp(config);
 
